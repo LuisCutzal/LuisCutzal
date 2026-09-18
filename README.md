@@ -109,7 +109,8 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscutzal)](https://github.com/luiscutzal/github-readme-stats)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=luiscutzal">
+
 </div>
 
 ### 💻 Most Used Languages
