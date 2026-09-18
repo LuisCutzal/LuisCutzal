@@ -109,7 +109,13 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=LuisCutzal"/>
+<p align="center">
+  <a href="https://github.com/LuisCutzal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuisCutzal&show_icons=true&theme=nightowl&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisCutzal&layout=compact&langs_count=8&theme=nightowl"/>
+  </a>
+</p>
+
 
 </div>
 
