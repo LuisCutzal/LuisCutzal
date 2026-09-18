@@ -109,8 +109,7 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=LuisCutzal)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCutzal&show_icons=true&theme=radical)
 
 </div>
 
