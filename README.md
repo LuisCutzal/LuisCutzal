@@ -109,7 +109,9 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisCutzal&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+![](https://github-readme-stats.vercel.app/api?username=LuisCutzal&theme=algolia&show_icons=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+
+
 
 </div>
 
@@ -117,7 +119,8 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCutzal&layout=donut&theme=github_dark&hide_border=true&langs_count=6"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCutzal&theme=algolia&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20&langs_count=6)
+
 
 </div>
 
