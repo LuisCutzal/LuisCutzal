@@ -112,10 +112,9 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 <p align="center">
   <a href="https://github.com/LuisCutzal">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuisCutzal&show_icons=true&theme=nightowl&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisCutzal&layout=compact&langs_count=8&theme=nightowl"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisCutzal&layout=compact&langs_count=8&theme=nightowl&hide=jupyter%20notebook"/>
   </a>
 </p>
-
 
 </div>
 
@@ -123,10 +122,9 @@ Web system developed for the Faculty of Architecture of Universidad de San Carlo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisCutzal&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisCutzal&layout=compact&langs_count=8&theme=nightowl&hide=jupyter%20notebook"/>
 
 </div>
-
 ---
 
 ## 📫 Contact
