@@ -10,11 +10,6 @@
   Software Engineer | Backend Developer
 </p>
 
-<p align="center">
-  <a href="https://github.com/luiscutzal">
-    <img src="https://komarev.com/ghpvc/?username=luiscutzal&style=for-the-badge&color=blue" />
-  </a>
-</p>
 
 ---
 
